@@ -1,2 +1,2 @@
-# JAVA-
+# JAVA
 Basics of JAVA
