@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Tutorial22_ArrayList {
     public static void main(String[] args) {
-        // Use API documentation there are a lot og things in collection framework //
+        // Use API documentation there are a lot of things in collection framework //
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(12);
         arr.add(23);
