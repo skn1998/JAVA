@@ -1,4 +1,4 @@
-// we can also throw qan exception by our own //
+// we can also throw an exception by our own //
 
 import java.util.Scanner;
 
